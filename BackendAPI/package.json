@@ -1,0 +1,17 @@
+{
+  "name": "backendapi-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest --runInBand --watchAll=false"
+  },
+  "devDependencies": {
+    "jest": "^30.1.2"
+  }
+}
